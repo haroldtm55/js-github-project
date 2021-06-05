@@ -11,3 +11,11 @@
 ul {
   list-style: none;
 }
+img {
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+a.profile-url,a.repo-url {
+  display: block;
+}
